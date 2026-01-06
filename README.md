@@ -1,0 +1,1 @@
+Euro Diagnostic AI MVP
